@@ -24,5 +24,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/dsgiio/dsgiio/blob/output/github-contribution-grid-snake.svg)
